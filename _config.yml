@@ -1,0 +1,28 @@
+name: Louis Oliver
+favicon: null
+layout_spectrum: 0.744045463623479
+typography_spectrum: 0.783602811396122
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.927578501868993
+  lightness: 0.6416569165885448
+  saturation: 0.08044967078603804
+  rhythmicContrast: 0.13826945750042796
+purpose: []
