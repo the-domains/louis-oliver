@@ -1,7 +1,7 @@
 name: Louis Oliver
 favicon: null
-layout_spectrum: 0.744045463623479
-typography_spectrum: 0.783602811396122
+layout_spectrum: 0.10265
+typography_spectrum: 0.51373
 title: Design - Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.927578501868993
-  lightness: 0.6416569165885448
-  saturation: 0.08044967078603804
-  rhythmicContrast: 0.13826945750042796
+    - '#22222a'
+    - '#f8f8f8'
+    - '#5c312b'
+    - '#9d683e'
+    - '#c9832c'
+  brandStrength: 0.3125
+  lightness: 0.125
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
